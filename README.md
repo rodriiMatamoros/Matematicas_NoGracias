@@ -1,5 +1,5 @@
 # Matematicas_NoGracias
-Mi repositorio es: 
+Mi repositorio es: https://github.com/rodriiMatamoros/Matematicas_NoGracias.git
 
 ## Enunciado
 Se deben definir los tipos de datos datoPolinomio y Polinomio, donde el primero almacena el valor y el término de dicho valor –es decir si es xn, xn-1,…,
