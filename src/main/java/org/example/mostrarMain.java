@@ -1,9 +1,13 @@
 package org.example;
-
 import java.util.Scanner;
-
 public class mostrarMain {
-    public static void main(String[] args) {
+
+    //Instancio la clase dentro del método aux para luego llamarla en la clase Main
+    public static void aux(){
+        mostrarMain mostrarMain = new mostrarMain();
+        mostrarMain.mostrar();
+    }
+    public static void mostrar() {
         Scanner scanner = new Scanner(System.in);
         Polinomio polinomio = new Polinomio(0, null);
 
